@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Diary</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_data_view">DataViewActivity</string>
+    <string name="title_activity_add_data">AddDataActivity</string>
+    <string name="about">Aplikasi ini adalah aplikasi diary atau jurnal harian fungsional yang berguna bagi orang-orang sangat suka mencatat kesehariannya.\n\n
+
+        Instruksi untuk menggunakan aplikasi ini:\n\n
+
+        Jika anda ingin menambah aktivitas baru, anda dapat menekan tombol "+" yang berada di bagian bawah kanan layar anda pada halaman home. Jika sudah selesai menulis anda dapat menekan tombol "Save" untuk menyimpan.\n\n
+
+        Untuk membagikan, anda dapat menekan tombol share pada halaman edit.\n\n
+        Untuk update, anda dapat menekan tombol "Update" pada halaman edit.\n\n
+
+        Anda dapat menghapus beberapa aktivitas secara bersamaan dengan cara tekan tahan pada salah satu aktivitas dan tekan aktivitas lain. Setelah itu anda dapat menekan tombol "Delete" untuk menghapus.\n\n
+
+        Begitulah bagaimana cara menggunakan aplikasi ini, cukup mudah dan simpel.</string>
+</resources>
